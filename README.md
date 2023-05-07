@@ -84,3 +84,8 @@ This is a Simple Student Management System Developed While Learning Django.
 - [x] Student View Result
 - [x] Change all links to be dynamic
 - [x] Code Restructure - Very Important
+
+Authors:
+Varsha,
+Pavithra &
+Sandeep
